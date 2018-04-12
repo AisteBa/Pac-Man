@@ -1,0 +1,7 @@
+c:\users\aiste\source\repos\Pac man\Pac man\obj\Debug\Pac man.csprojResolveAssemblyReference.cache
+c:\users\aiste\source\repos\Pac man\Pac man\obj\Debug\Pac man.csproj.CoreCompileInputs.cache
+c:\users\aiste\source\repos\Pac man\Pac man\bin\Debug\Pac man.exe.config
+c:\users\aiste\source\repos\Pac man\Pac man\bin\Debug\Pac man.exe
+c:\users\aiste\source\repos\Pac man\Pac man\bin\Debug\Pac man.pdb
+c:\users\aiste\source\repos\Pac man\Pac man\obj\Debug\Pac man.exe
+c:\users\aiste\source\repos\Pac man\Pac man\obj\Debug\Pac man.pdb
